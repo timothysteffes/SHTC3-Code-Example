@@ -22,4 +22,4 @@ https://github.com/adafruit/Adafruit_CircuitPython_SHTC3
 
 https://docs.circuitpython.org/projects/shtc3/en/latest/
 
-https://www.amazon.com/high-Precision-Temperature-Humidity-Measurement-Communication/dp/B08ZMWHT8M/ref=sr_1_5?keywords=shtc3+sensor&qid=1655174872&sprefix=shtc3%2Caps%2C729&sr=8-5
+[Amazon link to example product](https://www.amazon.com/dp/B08ZMWHT8M?ref_=cm_sw_r_cp_ud_dp_D1N9N92FZS8VWPVQN4NQ) (not an affiliate link)
