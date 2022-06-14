@@ -6,6 +6,7 @@ import board
 import json
 import sys
 import time
+from flask import Flask
 from functions import getPublicIP
 
 #net = "eth0"
@@ -34,7 +35,6 @@ while waiting:
 i2c = board.I2C()   # uses board.SCL and board.SDA
 sht = adafruit_shtc3.SHTC3(i2c)
 
-from flask import Flask
 app = Flask(__name__)
 @app.route('/')
 def index():
