@@ -8,7 +8,6 @@ Enable I2C in Interface Options.
 ````
 sudo raspi-config
 ````
-
 # Wiring
 
 * (+) to Pin 1 (3.3v)
